@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 28 15:45:27 2024
+
+@author: hp
+"""
+
+Area code 1
+State 1
+Area code 2 
+State 2
+<and so on>

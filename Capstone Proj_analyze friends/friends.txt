@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 28 17:03:59 2024
+
+@author: hp
+"""
+
+Bob
+000 123-4567
+Mom Bob
+(890) 098-7654
+Dad Bob
+321-098-0000
